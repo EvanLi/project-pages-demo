@@ -1,6 +1,6 @@
 # Github Project Pages usage
 
-## 1.Go to your github repository.
+## 1.Go to your github repository
 
 For example: [https://github.com/EvanLi/project-pages-demo](https://github.com/EvanLi/project-pages-demo)
 
