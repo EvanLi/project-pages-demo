@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: "Github Project Pages"
+description: "A simple github project pages demo."
+show_downloads: true
